@@ -18,7 +18,7 @@ export const AdminManagement = () => {
         <div className="flex flex-wrap flex-col gap-6">
           <div className="w-full bg-neutralColor flex justify-between md:w-1/4  rounded-lg shadow-md p-5 flex-wrap gap-2 tablet:gap-8">
             <div className="  ">
-              <p className="text-sm font-medium capitalize">auauusshshshjs@gmail.com</p>
+              <p className="text-sm font-medium capitalize">avash@gmail.com</p>
               <p className="text-black text-2xl font-medium mt-4">auf</p>
               <p className=" text-base self-end text-primaryColor mt-4">Rank : Tier 1</p>
             </div>
@@ -26,7 +26,7 @@ export const AdminManagement = () => {
           </div>
           <div className="w-full bg-neutralColor flex justify-between md:w-1/4  rounded-lg shadow-md p-5 flex-wrap gap-10">
             <div className="  ">
-              <p className="text-sm font-medium capitalize">auauusshshshjs@gmail.com</p>
+              <p className="text-sm font-medium capitalize">avash@gmail.com</p>
               <p className="text-black text-2xl font-medium mt-4">auf</p>
               <p className=" text-base self-end text-primaryColor mt-4">Rank : Tier 1</p>
             </div>
@@ -34,7 +34,7 @@ export const AdminManagement = () => {
           </div>
           <div className="w-full bg-neutralColor flex justify-between md:w-1/4  rounded-lg shadow-md p-5 flex-wrap gap-10">
             <div className="  ">
-              <p className="text-sm font-medium capitalize">auauusshshshjs@gmail.com</p>
+              <p className="text-sm font-medium capitalize">avash@gmail.com</p>
               <p className="text-black text-2xl font-medium mt-4">auf</p>
               <p className=" text-base self-end text-primaryColor mt-4">Rank : Tier 1</p>
             </div>
@@ -42,7 +42,7 @@ export const AdminManagement = () => {
           </div>
           <div className="w-full bg-neutralColor flex justify-between md:w-1/4  rounded-lg shadow-md p-5 flex-wrap gap-10">
             <div className="  ">
-              <p className="text-sm font-medium capitalize">auauusshshshjs@gmail.com</p>
+              <p className="text-sm font-medium capitalize">avash@gmail.com</p>
               <p className="text-black text-2xl font-medium mt-4">auf</p>
               <p className=" text-base self-end text-primaryColor mt-4">Rank : Tier 1</p>
             </div>
